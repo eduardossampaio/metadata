@@ -2,8 +2,8 @@
     "profile": {
         "name": "Eduardo ",
         "role": "Full Stack Developer",
-        "email" : "edu@jk.com",
-        "phone" : "214421421",
+        "email" : "eduardo.ssampaio@outlook.com",
+        "phone" : "61 99538-9000",
         "profile_picture": "https://avatars0.githubusercontent.com/u/11557845?s=400&u=11818e7bb15828b16cc1293536f76a26ecc27cef&v=4",
         "profile_url": [
             {
@@ -12,12 +12,12 @@
             },
             {
                 "icon" : "fab fa-github-alt fa-fw",
-                "url" : "github"
+                "url" : "https://github.com/eduardossampaio"
             }
         ]
     },
 
-    "description": "Summarise your career here. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. You can download this free resume/CV template here. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.",
+    "description": "Formaco em cc dgjkgsdjkhgdkhgdsj",
     "education": [
         {
             "course": "sdgdgs",
