@@ -57,10 +57,11 @@
     ],
     "experience" : [
             {
-                "role" : "jkh",
-                "where" : "sdggds",
-                "period": "11-11",
-                "description" : "dsjkgh",
+                "role" : "Analista de sistemas Sênior",
+                "where" : "Cast Group - BB",
+                "period": "04/2018–Momento atual",
+                "description" : "Participação na equipe de desenvolvimento de aplicação de biometria facialoCriação de aplicação interna de cadastro de biometria digitaloDesenvolvimento de aplicações internas para a plataforma BB, com AngularJS e JavaoDesenvolvimento de componente de digitalização de documentos MobileoDesenvolvimento e manutenção do aplicativo Ourocard (Android) -até julho de 2018
+                oParticipação em equipes de desenvolvimento ágil.",
                 "achievements": {
                     "description": "dsgjdhjkgjhkdgshjkjhkgdsjhkgds",
                     "details": [
@@ -68,8 +69,11 @@
                     ]
                 },
                 "technologies": [
-                    "ss",
-                    "ff"
+                    Metodologia de trabalho SCRUM",
+                    "Android Studio",
+                    "Eclipse",
+                    "Ferramentas de build Gradle",
+                    "Controle de versão com GIT"
                 ]
 
             },
