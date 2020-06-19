@@ -153,17 +153,6 @@
                 "Hibernate"
             ]
 
-        },
-        {
-            "role": "smsm",
-            "where": "1111",
-            "period": "124-44",
-            "description": "dsgjk",
-            "technologies": [
-                "ss",
-                "ff"
-            ]
-
         }
     ],
     "awards": [{
