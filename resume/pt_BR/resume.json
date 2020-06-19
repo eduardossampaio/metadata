@@ -32,6 +32,21 @@
 
         }
     ],
+    "language": [
+        {
+            "name": "pt",
+            "level": "nativo"
+        },
+        {
+            "name": "en",
+            "level": "intermediário"
+        }
+    ],
+    "interests":[
+        "dgsdg",
+        "assa",
+        "fff"
+    ],
     "experience" : [
             {
                 "role" : "jkh",
