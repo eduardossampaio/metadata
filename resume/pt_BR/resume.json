@@ -94,6 +94,8 @@
                 "SCRUM",
                 "Android Studio",
                 "Eclipse",
+                "Java EE,
+                "Tomcat 7",
                 "Gradle",
                 "Maven",
                 "GIT"
@@ -117,7 +119,11 @@
             "technologies": [
                 "SCRUM",
                 "Android Studio",
+                "Android SDK",
                 "Eclipse",
+                "Java EE,
+                "Spring",
+                "Oracle SQL",
                 "Gradle",
                 "Maven",
                 "GIT"
@@ -140,6 +146,8 @@
             },
             "technologies": [
                 "SCRUM",
+                "C++.",
+                "Android SDK",
                 "Eclipse",
                 "Maven",
                 "GIT",
