@@ -59,10 +59,10 @@
             {
                 "role" : "Analista de sistemas Sênior",
                 "where" : "Cast Group - BB",
-                "period": "04/2018–Momento atual",
+                "period": "08/2018–Momento atual",
                 "description" : "Contratado pela Cast Group, e alocado no Banco do Brasil, atuo em projetos internos diversos de front/backend e mobile nativo e hídrido com React Native",
                 "achievements": {
-                    "description": "dsgjdhjkgjhkdgshjkjhkgdsjhkgds",
+                    "description": "Atuação:",
                     "details": [
                         "Participação na equipe de desenvolvimento de aplicação de biometria facial",
                         "Criação de aplicação interna de cadastro de biometria digital",
@@ -72,25 +72,36 @@
                     ]
                 },
                 "technologies": [
-                    "Metodologia de trabalho SCRUM",
+                    "SCRUM",
                     "Android Studio",
                     "Eclipse",
-                    "Ferramentas de build Gradle",
-                    "Controle de versão com GIT"
+                    "Gradle",
+                    "Maven",
+                    "GIT"
                 ]
 
             },
             {
-                "role" : "saffas",
-                "where" : "sdsafasfggds",
-                "period": "11-11",
-                "description" : "sdkjgh",
+                "role" : "Analista de sistemas Sênior",
+                "where" : "Cast Group - BB",
+                "period": "04/2018–08/2018",
+                "description" : "Contratado pela Cast Group, e alocado no Banco do Brasil, atuei no projeto Ourocard Mobile",
                 "achievements": {
-                    "description": "nnnnnnndnngndngndnngd"
+                    "description": "Desenvolvimento e manutenção do aplicativo Ourocard",
+                    "details": [
+                        "Manutenção e desenvolvimento de novas funcionalidades no aplicativo Ourocard Android",
+                        "Manutenção e desenvolvimento de novas funcionalidades no backend do aplicativo Ourocard",
+                        "Integração do backendo do aplicativo Ourocard com Apple Pay",
+
+                    ]
                 },
                 "technologies": [
-                    "ss",
-                    "ff"
+                    "SCRUM",
+                    "Android Studio",
+                    "Eclipse",
+                    "Gradle",
+                    "Maven",
+                    "GIT"
                 ]
 
             },
