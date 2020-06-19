@@ -8,15 +8,15 @@
         "profile_url": [
             {
                 "icon" : "fab fa-linkedin-in fa-fw",
-                "url" : "https://www.linkedin.com/in/eduardossampaio"
+                "url" : "https://bit.ly/2YORx7o"
             },
             {
                 "icon" : "fab fa-github-alt fa-fw",
-                "url" : "https://github.com/eduardossampaio"
+                "url" : "https://bit.ly/3fzY5NG"
             },
             {
                 "icon" : " fab fa-google-play",
-                "url" : "https://play.google.com/store/apps/developer?id=Eduardo+Soares"
+                "url" : "https://bit.ly/37JhPf7"
             }
 
 
@@ -99,12 +99,22 @@
 
             }
     ],
+    "awards":[
+        {
+            "name": "Certificação Oracle Java SE 7 Programmer –I. (1Z0-803)",
+            "description": ""
+        },
+        {
+            "name": "Certificação Oracle Java SE 7 Programmer –II. (1Z0-804)",
+            "description": ""
+        }
+    ],
     "skills": [
         {
             "name": "backend",
             "technologies" : [
                 {
-                    "name": "Java",
+                    "name": "Java/Java EE",
                     "percentage" : 80
                 },
                 {
