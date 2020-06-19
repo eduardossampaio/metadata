@@ -23,7 +23,7 @@
         ]
     },
 
-    "description": "Formaco em cc dgjkgsdjkhgdkhgdsj",
+    "description": "Bacharel em Ciência da Computação pela Universidade Católica de Brasília, e pós-graduado em Projeto de Aplicações Móveis pelo Instituto de Gestão da Tecnologia da  tento desenvolver novas aplicações no tempo livre",
     "education": [
         {
             "course": "Bacharelado em Ciência da Computação",
@@ -101,6 +101,37 @@
                     "Gradle",
                     "Maven",
                     "GIT"
+                ]
+
+            },
+            {
+                "role" : "Programador Android",
+                "where" : "Cabal Brasi",
+                "period": "10/2016 –04/2018",
+                "description" : "Responsável por manter todos os projetos Android",
+                "achievements": {
+                    "description": "Responsável por manter todos os projetos Android da empresa e de afiliadas ao grupo Sicoob",
+                    "details": [
+                        "Responsável pelos aplicativos Android: Sicoobcard, Cecred Cartões, Unicred Cartões, Cartão Cabal BNDES,Sicoob Minhas Finanças, Cabal Ponto",
+                        "Manutenções corretivas e evolutivas nos aplicativos Android.",
+                        "Desenvolvimento de novos aplicativos Android.",
+                        "Pariticpação em sprints, planejamentos e refinamento de de histórias"
+                    ]
+                },
+                "technologies": [
+                    "ss",
+                    "ff"
+                ]
+
+            },
+            {
+                "role" : "smsm",
+                "where" : "1111",
+                "period": "124-44",
+                "description" : "dsgjk",
+                "technologies": [
+                    "ss",
+                    "ff"
                 ]
 
             },
