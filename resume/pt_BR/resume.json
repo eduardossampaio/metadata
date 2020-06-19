@@ -2,21 +2,20 @@
     "profile": {
         "name": "Eduardo ",
         "role": "Desenvolvedor Full Stack",
-        "email" : "eduardo.ssampaio@outlook.com",
-        "phone" : "61 99538-9000",
+        "email": "eduardo.ssampaio@outlook.com",
+        "phone": "61 99538-9000",
         "profile_picture": "https://avatars0.githubusercontent.com/u/11557845?s=400&u=11818e7bb15828b16cc1293536f76a26ecc27cef&v=4",
-        "profile_url": [
-            {
-                "icon" : "fab fa-linkedin-in fa-fw",
-                "url" : "https://bit.ly/2YORx7o"
+        "profile_url": [{
+                "icon": "fab fa-linkedin-in fa-fw",
+                "url": "https://bit.ly/2YORx7o"
             },
             {
-                "icon" : "fab fa-github-alt fa-fw",
-                "url" : "https://bit.ly/3fzY5NG"
+                "icon": "fab fa-github-alt fa-fw",
+                "url": "https://bit.ly/3fzY5NG"
             },
             {
-                "icon" : " fab fa-google-play",
-                "url" : "https://bit.ly/37JhPf7"
+                "icon": " fab fa-google-play",
+                "url": "https://bit.ly/37JhPf7"
             }
 
 
@@ -24,8 +23,7 @@
     },
 
     "description": "Bacharel em Ciência da Computação pela Universidade Católica de Brasília, e pós-graduado em Projeto de Aplicações Móveis pelo Instituto de Gestão da Tecnologia da  tento desenvolver novas aplicações no tempo livre",
-    "education": [
-        {
+    "education": [{
             "course": "Bacharelado em Ciência da Computação",
             "institution": "Universidade Católica de Brasília",
             "period": "2010-2013"
@@ -38,8 +36,7 @@
 
         }
     ],
-    "language": [
-        {
+    "language": [{
             "name": "Português",
             "level": "nativo"
         },
@@ -48,107 +45,128 @@
             "level": "intermediário"
         }
     ],
-    "interests":[
+    "interests": [
         "Tecnologia",
         "Desenvolvimento mobile",
         "Inteligencia artificial",
         "Impressão 3D",
         "IOT"
     ],
-    "experience" : [
-            {
-                "role" : "Analista de sistemas Sênior",
-                "where" : "Cast Group - BB",
-                "period": "08/2018–Momento atual",
-                "description" : "Contratado pela Cast Group, e alocado no Banco do Brasil, atuo em projetos internos diversos de front/backend e mobile nativo e hídrido com React Native",
-                "achievements": {
-                    "description": "Atuação:",
-                    "details": [
-                        "Participação na equipe de desenvolvimento de aplicação de biometria facial",
-                        "Criação de aplicação interna de cadastro de biometria digital",
-                        "Desenvolvimento de aplicações internas para a plataforma BB, com AngularJS e Java",
-                        "Desenvolvimento de componente de digitalização de documentos Mobile",
-                        "Participação em equipes de desenvolvimento ágil."
-                    ]
-                },
-                "technologies": [
-                    "SCRUM",
-                    "Android Studio",
-                    "Eclipse",
-                    "Gradle",
-                    "Maven",
-                    "GIT"
+    "experience": [{
+            "role": "Analista de sistemas Sênior",
+            "where": "Cast Group - BB",
+            "period": "08/2018–Momento atual",
+            "description": "Contratado pela Cast Group, e alocado no Banco do Brasil, atuo em projetos internos diversos de front/backend e mobile nativo e hídrido com React Native",
+            "achievements": {
+                "description": "Atuação:",
+                "details": [
+                    "Participação na equipe de desenvolvimento de aplicação de biometria facial",
+                    "Criação de aplicação interna de cadastro de biometria digital",
+                    "Desenvolvimento de aplicações internas para a plataforma BB, com AngularJS e Java",
+                    "Desenvolvimento de componente de digitalização de documentos Mobile",
+                    "Participação em equipes de desenvolvimento ágil."
                 ]
-
             },
-            {
-                "role" : "Analista de sistemas Sênior",
-                "where" : "Cast Group - BB",
-                "period": "04/2018–08/2018",
-                "description" : "Contratado pela Cast Group, e alocado no Banco do Brasil, atuei no projeto Ourocard Mobile",
-                "achievements": {
-                    "description": "Desenvolvimento e manutenção do aplicativo Ourocard",
-                    "details": [
-                        "Manutenção e desenvolvimento de novas funcionalidades no aplicativo Ourocard Android",
-                        "Manutenção e desenvolvimento de novas funcionalidades no backend do aplicativo Ourocard",
-                        "Integração do backendo do aplicativo Ourocard com Apple Pay"
-                    ]
-                },
-                "technologies": [
-                    "SCRUM",
-                    "Android Studio",
-                    "Eclipse",
-                    "Gradle",
-                    "Maven",
-                    "GIT"
-                ]
+            "technologies": [
+                "SCRUM",
+                "Android Studio",
+                "Eclipse",
+                "Gradle",
+                "Maven",
+                "GIT"
+            ]
 
-            },
-            {
-                "role" : "Programador Android",
-                "where" : "Cabal Brasi",
-                "period": "10/2016 –04/2018",
-                "description" : "Responsável por manter todos os projetos Android",
-                "achievements": {
-                    "description": "Responsável por manter todos os projetos Android da empresa e de afiliadas ao grupo Sicoob",
-                    "details": [
-                        "Responsável pelos aplicativos Android: Sicoobcard, Cecred Cartões, Unicred Cartões, Cartão Cabal BNDES,Sicoob Minhas Finanças, Cabal Ponto",
-                        "Manutenções corretivas e evolutivas nos aplicativos Android.",
-                        "Desenvolvimento de novos aplicativos Android.",
-                        "Pariticpação em sprints, planejamentos e refinamento de de histórias"
-                    ]
-                },
-                "technologies": [
-                    "ss",
-                    "ff"
-                ]
-
-            },
-            {
-                "role" : "smsm",
-                "where" : "1111",
-                "period": "124-44",
-                "description" : "dsgjk",
-                "technologies": [
-                    "ss",
-                    "ff"
-                ]
-
-            },
-            {
-                "role" : "smsm",
-                "where" : "1111",
-                "period": "124-44",
-                "description" : "dsgjk",
-                "technologies": [
-                    "ss",
-                    "ff"
-                ]
-
-            }
-    ],
-    "awards":[
+        },
         {
+            "role": "Analista de sistemas Sênior",
+            "where": "Cast Group - BB",
+            "period": "04/2018–08/2018",
+            "description": "Contratado pela Cast Group, e alocado no Banco do Brasil, atuei no projeto Ourocard Mobile",
+            "achievements": {
+                "description": "Desenvolvimento e manutenção do aplicativo Ourocard",
+                "details": [
+                    "Manutenção e desenvolvimento de novas funcionalidades no aplicativo Ourocard Android",
+                    "Manutenção e desenvolvimento de novas funcionalidades no backend do aplicativo Ourocard",
+                    "Integração do backendo do aplicativo Ourocard com Apple Pay"
+                ]
+            },
+            "technologies": [
+                "SCRUM",
+                "Android Studio",
+                "Eclipse",
+                "Gradle",
+                "Maven",
+                "GIT"
+            ]
+
+        },
+        {
+            "role": "Programador Android",
+            "where": "Cabal Brasi",
+            "period": "10/2016 –04/2018",
+            "description": "Responsável por manter todos os projetos Android",
+            "achievements": {
+                "description": "Responsável por manter todos os projetos Android da empresa e de afiliadas ao grupo Sicoob",
+                "details": [
+                    "Responsável pelos aplicativos Android: Sicoobcard, Cecred Cartões, Unicred Cartões, Cartão Cabal BNDES,Sicoob Minhas Finanças, Cabal Ponto",
+                    "Manutenções corretivas e evolutivas nos aplicativos Android.",
+                    "Desenvolvimento de novos aplicativos Android.",
+                    "Pariticpação em sprints, planejamentos e refinamento de de histórias"
+                ]
+            },
+            "technologies": [
+                "SCRUM",
+                "Android Studio",
+                "Eclipse",
+                "Gradle",
+                "Maven",
+                "GIT"
+            ]
+
+        },
+        {
+            "role": "Analista de Sistema Junior",
+            "where": "e-Sec Segurança Digital",
+            "period": "02/2014-10/2015",
+            "description": "Atuação em sistema de segurança digital",
+            "achievements": {
+                "description": "Atuação em sistema de assinatura digital mobile e módulos de segurança",
+                "details": [
+                    "Desenvolvimento de módulos de assinatura digital PKCS11 e CSP em linguagem C++.",
+                    "Desenvolvimento de aplicativo de assinatura digital utilizando Android SDK",
+                    "Desenvolvimento de aplicação Java e instalador de aplicação utilizando Excelsior JET",
+                    "Manutenção e desenvolvimento de novas funcionalidades no servidor de aplicação"
+                ]
+            },
+            "technologies": [
+                "SCRUM",
+                "Eclipse",
+                "Maven",
+                "GIT",
+                "JUnit",
+                "TestNG",
+                "JBoss as 7",
+                "EJB",
+                "JAX-RS",
+                "JAX-WS",
+                "JMS(Hornet)",
+                "Hibernate"
+            ]
+
+        },
+        {
+            "role": "smsm",
+            "where": "1111",
+            "period": "124-44",
+            "description": "dsgjk",
+            "technologies": [
+                "ss",
+                "ff"
+            ]
+
+        }
+    ],
+    "awards": [{
             "name": "Certificação Oracle Java SE 7 Programmer –I. (1Z0-803)",
             "description": ""
         },
@@ -157,60 +175,56 @@
             "description": ""
         }
     ],
-    "skills": [
-        {
+    "skills": [{
             "name": "backend",
-            "technologies" : [
-                {
+            "technologies": [{
                     "name": "Java/Java EE",
-                    "percentage" : 80
+                    "percentage": 80
                 },
                 {
                     "name": "Spring",
-                    "percentage" : 80
+                    "percentage": 80
                 },
                 {
                     "name": "Quarkus",
-                    "percentage" : 20
+                    "percentage": 20
                 },
                 {
                     "name": "Nodejs",
-                    "percentage" : 30
+                    "percentage": 30
                 }
 
             ]
         },
         {
             "name": "Frontend",
-            "technologies" : [
-                {
+            "technologies": [{
                     "name": "HTML/Javascript",
-                    "percentage" : 90
+                    "percentage": 90
                 },
                 {
                     "name": "CSS",
-                    "percentage" : 50
+                    "percentage": 50
                 },
                 {
                     "name": "Angular",
-                    "percentage" : 50
+                    "percentage": 50
                 }
             ]
         },
         {
             "name": "mobile",
-            "technologies" : [
-                {
+            "technologies": [{
                     "name": "Android-SDK",
-                    "percentage" : 80
+                    "percentage": 80
                 },
                 {
                     "name": "IOS/Swift",
-                    "percentage" : 50
+                    "percentage": 50
                 },
                 {
                     "name": "ReactNative",
-                    "percentage" : 60
+                    "percentage": 60
                 }
             ]
         }
