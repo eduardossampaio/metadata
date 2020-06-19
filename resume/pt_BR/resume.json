@@ -49,9 +49,11 @@
         }
     ],
     "interests":[
-        "dgsdg",
-        "assa",
-        "fff"
+        "Tecnologia",
+        "Desenvolvimento mobile",
+        "Inteligencia artificial",
+        "Impressão 3D",
+        "IOT"
     ],
     "experience" : [
             {
@@ -102,24 +104,20 @@
             "name": "backend",
             "technologies" : [
                 {
-                    "name": "sgdgs",
+                    "name": "Java",
                     "percentage" : 80
                 },
                 {
-                    "name": "dsgdsg",
-                    "percentage" : 21
+                    "name": "Spring",
+                    "percentage" : 80
                 },
                 {
-                    "name": "sdgdg",
-                    "percentage" : 85
+                    "name": "Quarkus",
+                    "percentage" : 20
                 },
                 {
-                    "name": "dsgdgsgd",
-                    "percentage" : 29
-                },
-                {
-                    "name": "dsgdgs",
-                    "percentage" : 23
+                    "name": "Nodejs",
+                    "percentage" : 30
                 }
 
             ]
@@ -128,52 +126,34 @@
             "name": "Frontend",
             "technologies" : [
                 {
-                    "name": "sgdgs",
-                    "percentage" : 80
+                    "name": "HTML/Javascript",
+                    "percentage" : 90
                 },
                 {
-                    "name": "dsgdsg",
-                    "percentage" : 21
+                    "name": "CSS",
+                    "percentage" : 50
                 },
                 {
-                    "name": "sdgdg",
-                    "percentage" : 85
-                },
-                {
-                    "name": "dsgdgsgd",
-                    "percentage" : 29
-                },
-                {
-                    "name": "dsgdgs",
-                    "percentage" : 23
+                    "name": "Angular",
+                    "percentage" : 50
                 }
-
             ]
         },
         {
             "name": "mobile",
             "technologies" : [
                 {
-                    "name": "sgdgs",
+                    "name": "Android-SDK",
                     "percentage" : 80
                 },
                 {
-                    "name": "dsgdsg",
-                    "percentage" : 21
+                    "name": "IOS/Swift",
+                    "percentage" : 50
                 },
                 {
-                    "name": "sdgdg",
-                    "percentage" : 85
-                },
-                {
-                    "name": "dsgdgsgd",
-                    "percentage" : 29
-                },
-                {
-                    "name": "dsgdgs",
-                    "percentage" : 23
+                    "name": "ReactNative",
+                    "percentage" : 60
                 }
-
             ]
         }
     ]
