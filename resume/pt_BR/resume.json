@@ -1,44 +1,50 @@
 {
     "profile": {
         "name": "Eduardo ",
-        "role": "Full Stack Developer",
+        "role": "Desenvolvedor Full Stack",
         "email" : "eduardo.ssampaio@outlook.com",
         "phone" : "61 99538-9000",
         "profile_picture": "https://avatars0.githubusercontent.com/u/11557845?s=400&u=11818e7bb15828b16cc1293536f76a26ecc27cef&v=4",
         "profile_url": [
             {
                 "icon" : "fab fa-linkedin-in fa-fw",
-                "url" : "linkedin"
+                "url" : "https://www.linkedin.com/in/eduardossampaio"
             },
             {
                 "icon" : "fab fa-github-alt fa-fw",
                 "url" : "https://github.com/eduardossampaio"
+            },
+            {
+                "icon" : " fab fa-google-play",
+                "url" : "https://play.google.com/store/apps/developer?id=Eduardo+Soares"
             }
+
+
         ]
     },
 
     "description": "Formaco em cc dgjkgsdjkhgdkhgdsj",
     "education": [
         {
-            "course": "sdgdgs",
-            "institution": "dgsdg",
-            "period": "ddsg-dgs"
+            "course": "Bacharelado em Ciência da Computação",
+            "institution": "Universidade Católica de Brasília",
+            "period": "2010-2013"
 
         },
         {
-            "course": "sdgdgs",
-            "institution": "dgsdg",
-            "period": "ddsg-dgs"
+            "course": "MBA em Projeto de Aplicações Móveis",
+            "institution": "Instituto de Gestão e Tecnologia da Informação (IGTI)",
+            "period": "2018-2020"
 
         }
     ],
     "language": [
         {
-            "name": "pt",
+            "name": "Português",
             "level": "nativo"
         },
         {
-            "name": "en",
+            "name": "Ingles",
             "level": "intermediário"
         }
     ],
